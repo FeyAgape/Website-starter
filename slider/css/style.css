@@ -39,7 +39,7 @@
       opacity: 1;
     }
 
-button.slick-prev.slick-arrow {
+/*button.slick-prev.slick-arrow {
     text-indent: -9999px;
     height: 37px;
     width: 21px;
@@ -63,4 +63,4 @@ button.slick-next.slick-arrow {
     position: absolute;
     bottom: 0;
     right: 16%;
-}
+}*/
