@@ -31,12 +31,12 @@
       opacity: .2;
     }
 
-    .slick-active {
+    /*.slick-active {
       opacity: .5;
-    }
+    }*/
 
     .slick-current {
-      opacity: 1;
+      opacity: .5;
     }
 
 /*button.slick-prev.slick-arrow {
